@@ -12,6 +12,8 @@ but be careful, too many download requests you might get kicked out of Insta!!! 
 
 ## How to use
 
+> Download the first built from here: https://github.com/Biswa5812/Instagram_Image_Download/releases/download/V-0.1/Insta.exe
+
 - **Step 1:** Login to your Instagram with your credentials.
 - **Step 2:** Browse for the picture you want to download.
 - **Step 3:** Open the page to which the particular image belongs to and then from their post click on the image to view it.
